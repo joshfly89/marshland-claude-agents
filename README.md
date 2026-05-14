@@ -1,4 +1,4 @@
-# Marshland Claude Agents — Sample Pack (3 of 9)
+# Marshland Claude Agents — Sample Pack (3 of 10)
 
 Three of the nine Marshland Claude agents, free under MIT. Take them, fork them, see if they fit your workflow before you decide to grab the rest.
 
@@ -28,4 +28,4 @@ MIT
 
 ---
 
-**Want all 9 agents?** The full pack adds `cost`, `dynamo`, `lambda`, `ui`, `seo-content`, and `seo-technical` — plus a project-scoped CLAUDE.md system. Available at <https://marshland.software/lab/agents>.
+**Want all 10 agents?** The full pack adds `cost`, `dynamo`, `lambda`, `ui`, `seo-content`, and `seo-technical` — plus a project-scoped CLAUDE.md system. Available at <https://marshland.software/lab/agents>.
